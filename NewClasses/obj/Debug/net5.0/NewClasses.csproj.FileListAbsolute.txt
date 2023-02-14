@@ -1,0 +1,16 @@
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\bin\Debug\net5.0\NewClasses.exe
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\bin\Debug\net5.0\NewClasses.deps.json
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\bin\Debug\net5.0\NewClasses.runtimeconfig.json
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\bin\Debug\net5.0\NewClasses.runtimeconfig.dev.json
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\bin\Debug\net5.0\NewClasses.dll
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\bin\Debug\net5.0\ref\NewClasses.dll
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\bin\Debug\net5.0\NewClasses.pdb
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\obj\Debug\net5.0\NewClasses.csprojAssemblyReference.cache
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\obj\Debug\net5.0\NewClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\obj\Debug\net5.0\NewClasses.AssemblyInfoInputs.cache
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\obj\Debug\net5.0\NewClasses.AssemblyInfo.cs
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\obj\Debug\net5.0\NewClasses.csproj.CoreCompileInputs.cache
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\obj\Debug\net5.0\NewClasses.dll
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\obj\Debug\net5.0\ref\NewClasses.dll
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\obj\Debug\net5.0\NewClasses.pdb
+C:\Users\Edinam\source\repos\C-Marathon\NewClasses\obj\Debug\net5.0\NewClasses.genruntimeconfig.cache

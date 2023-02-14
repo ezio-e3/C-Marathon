@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Edinam\\source\\repos\\C-Marathon\\classes\\classes.csproj",
-      "projectName": "classes",
-      "projectPath": "C:\\Users\\Edinam\\source\\repos\\C-Marathon\\classes\\classes.csproj",
+      "projectUniqueName": "C:\\Users\\Edinam\\source\\repos\\C-Marathon\\NewClasses\\NewClasses.csproj",
+      "projectName": "NewClasses",
+      "projectPath": "C:\\Users\\Edinam\\source\\repos\\C-Marathon\\NewClasses\\NewClasses.csproj",
       "packagesPath": "C:\\Users\\Edinam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Edinam\\source\\repos\\C-Marathon\\classes\\obj\\",
+      "outputPath": "C:\\Users\\Edinam\\source\\repos\\C-Marathon\\NewClasses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
