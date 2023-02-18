@@ -20,7 +20,7 @@ namespace NewClasses
             BankAccount invalidAccount;
             try
             {
-                invalidAccount = new BankAccount("invalid", -55);
+                invalidAccount = new BankAccount("invalid", 55);
             }
             catch (ArgumentOutOfRangeException e)
             {
@@ -28,6 +28,8 @@ namespace NewClasses
                 Console.WriteLine(e.ToString());
                 return;
             }
+            var history = account.GetAccountHistory();
+            Console.WriteLine(history);
         }
     }
 }

@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Text;
 using NewClasses;
 namespace NewClasses {
 
@@ -46,6 +47,18 @@ namespace NewClasses {
             var withdrawal = new Transactions(-amount, date, note);
             allTransactions.Add(withdrawal);
     }
+
+        public String GetAccountHistory() {
+            var report = new StringBuilder();
+            decimal balance = 0;
+            report.AppendLine("Date\t\tAmount\tBalance\tNote");
+            foreach (var item in allTransactions) {
+                balance += item.Amount;
+                report.AppendLine($"{item.Date.ToShortDateString()}\t{item.Amount}\t{balance}\t{item.Notes}");
+                
+            }
+            return report.ToString();
+        }
 
     public BankAccount(string name, decimal initialBalance)
     {
