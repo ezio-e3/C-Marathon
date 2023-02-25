@@ -12,7 +12,7 @@ namespace NewClasses {
             Date = date;
             Notes = note;
         }
-    
+     
     }
 
 }
